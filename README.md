@@ -1,4 +1,4 @@
-### Deep learning reveals escalating future bleaching risk across the Great Barrier Reef
+### High-resolution climate projections using machine learning reveals escalating future bleaching risk across the Great Barrier Reef
 
 Ajitha Cyriac1*, Chaojiao Sun1, John Taylor2,3, Richard Matear4, Scott A. Condie4, P. Jyoteeshkumar Reddy4, Tongliang Liu5
 
