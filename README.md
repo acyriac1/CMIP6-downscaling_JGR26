@@ -26,3 +26,5 @@ Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., Wang, Y., 
 Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., Tsujino, H., Deushi, M., Tanaka, T., Hosaka, M., Yoshimura, H., Shindo, E., Mizuta, R., Ishii, M., Obata, A., & Adachi, Y. (2019). MRI MRI-ESM2.0 model output prepared for CMIP6 CMIP piControl (Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.6900
 
 Krasting, J. P., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., Rand, K., Zadeh, N. T., Balaji, V., Durachta, J., Dupuis, C., Menzel, R., Robinson, T., Underwood, S., Vahlenkamp, H., Dunne, K. A., Gauthier, P. P. G., Ginoux, P., Griffies, S. M.,…Zhao, M. (2018). NOAA-GFDL GFDL-ESM4 model output prepared for CMIP6 CMIP historical (Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.8597
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19450376.svg)](https://doi.org/10.5281/zenodo.19450376)
