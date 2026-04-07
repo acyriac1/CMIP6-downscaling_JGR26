@@ -1,8 +1,12 @@
 ### High-resolution climate projections using machine learning reveals escalating future bleaching risk across the Great Barrier Reef
 
-Ajitha Cyriac1*, Chaojiao Sun1, John Taylor2,3, Richard Matear4, Scott A. Condie4, P. Jyoteeshkumar Reddy4, Tongliang Liu5
+Ajitha Cyriac<sup>1</sup>*, Chaojiao Sun<sup>1</sup>, John Taylor<sup>2,3</sup>, Richard Matear<sup>4</sup>, Scott A. Condie<sup>4</sup>, P. Jyoteeshkumar Reddy<sup>4</sup>, Tongliang Liu<sup>5</sup>
 
-1CSIRO Environment, IOMRC, Crawley, WA, Australia 2CSIRO Data61, Canberra, ACT, Australia 3Australian National University, Canberra, ACT, Australia 4CSIRO Environment, Hobart, TAS, Australia 5University of Sydney, Camperdown, NSW, Australia
+<sup>1</sup>CSIRO Environment, IOMRC, Crawley, WA, Australia
+<sup>2</sup>CSIRO Data61, Canberra, ACT, Australia
+<sup>3</sup>Australian National University, Canberra, ACT, Australia
+<sup>4</sup>CSIRO Environment, Hobart, TAS, Australia
+<sup>5</sup>University of Sydney, Camperdown, NSW, Australia
 
 *Corresponding author: Ajitha Cyriac (ajitha.cyriac@csiro.au)
 
